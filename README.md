@@ -15,9 +15,9 @@ A responsive and modern restaurant website built using HTML and CSS.
 ## 🚀 How to Run
 1. Clone the repository:
    ```
-   git clone https://github.com/prahasini126/restaurant-website.git
+   git clone https://github.com/srijaparuvada/Restaurant-Website
    ```
 2. Open `index.html` in your browser.
 
 ## ✨ Author
-**Prahasini**
+**Srija Sanhitha**
